@@ -884,8 +884,8 @@ main {
 .leadership__grid .grid__item:hover .item__icon {
   opacity: 0;
   position: absolute;
-  bottom: 0;
-  right: 0;
+  bottom: 8px;
+  right: 16px;
   transition: opacity 0.3s ease-in-out;
 }
 .leadership__grid .grid__item:hover .item__icon-active {
